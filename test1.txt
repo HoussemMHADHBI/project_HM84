@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C s'appelle WINDOWS
+ Le num‚ro de s‚rie du volume est 949F-9ADA
+
+ R‚pertoire de C:\Users\MHADHBI\Desktop\My project
+
+07/12/2020  19:39    <DIR>          .
+07/12/2020  19:39    <DIR>          ..
+07/12/2020  19:39                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  101ÿ381ÿ222ÿ400 octets libres
+Bonjour houssem

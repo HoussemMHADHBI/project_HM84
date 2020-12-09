@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C s'appelle WINDOWS
+ Le num‚ro de s‚rie du volume est 949F-9ADA
+
+ R‚pertoire de C:\Users\MHADHBI\Desktop\My project
+
+09/12/2020  19:44    <DIR>          .
+09/12/2020  19:44    <DIR>          ..
+09/12/2020  19:43    <DIR>          .git
+09/12/2020  19:40                50 localisation.txt
+07/12/2020  19:52               401 test1.txt
+07/12/2020  19:53               474 test2.html
+09/12/2020  19:44                 0 test3.txt
+               4 fichier(s)              925 octets
+               3 R‚p(s)  96ÿ926ÿ609ÿ408 octets libres
